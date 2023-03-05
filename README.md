@@ -1,4 +1,12 @@
-### Hi there 👋
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=zuobiao-zhou&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+
+### Hello! I am Zhang Yuxuan~ 👋
+
+- 🔭 Junior at [BJUT](https://www.bjut.edu.cn), majoring in Computer Science
+- ⚡ C++ / Python / Java
+- 🏃 Badminton / Basketball /Table Tennis 
+- ♟ Chinese Chess
+
 
 <!--
 **zuobiao-zhou/zuobiao-zhou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
